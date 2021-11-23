@@ -399,7 +399,6 @@ input {
   top: 50px;
   position: absolute;
   z-index: 10;
-  background-color: red;
 }
 
 .slick-dots li {
