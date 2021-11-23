@@ -1,0 +1,399 @@
+@media screen and (max-width: 1750px) {
+  html,
+  body {
+    font-size: 90%;
+  }
+  .pagefour {
+    width: 1620px;
+    height: 700px;
+  }
+}
+
+@media screen and (max-width: 1616px) {
+  .pagefour {
+    width: 1420px;
+    height: 700px;
+  }
+  .pagethree {
+    width: 93%;
+  }
+}
+
+@media screen and (max-width: 1515px) {
+  .pagethree {
+    width: 90%;
+  }
+  html,
+  body {
+    font-size: 80%;
+  }
+}
+
+@media screen and (max-width: 1482px) {
+  .pagefour {
+    width: 1320px;
+    height: 700px;
+  }
+  .pagefive {
+    width: 95%;
+  }
+}
+
+@media screen and (max-width: 1416px) {
+  .pagetwo {
+    display: flex;
+    flex-flow: column wrap;
+  }
+  .pagetwo__left {
+    width: 100%;
+  }
+  .pagetwo__blockone {
+    display: flex;
+    flex-flow: row nowrap;
+    width: 85%;
+  }
+  .pagethree__sectionone,
+  .pagethree__sectiontwo,
+  .pagethree__sectionthree,
+  .pagethree__sectionfour,
+  .pagethree__sectionfive {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .pagethree__left {
+    width: 95%;
+    margin: 0 auto;
+  }
+  .pagethree__right {
+    width: 95%;
+    margin: 0 auto;
+  }
+  html,
+  body {
+    font-size: 70%;
+  }
+  .pagefour {
+    width: 1200px;
+  }
+}
+
+@media screen and (max-width: 1334px) {
+  .pagefour {
+    width: 1100px;
+  }
+}
+
+@media screen and (max-width: 1270px) {
+  .pagefour {
+    width: 1000px;
+  }
+}
+
+@media screen and (max-width: 1239px) {
+  .menu-burger {
+    display: block;
+  }
+  .slick-dots {
+    display: none;
+  }
+  .header__socialmedia {
+    display: none;
+  }
+  .header__logo {
+    width: 15%;
+  }
+  .pageone {
+    width: 90%;
+  }
+  .header {
+    min-height: 80px;
+  }
+  .slider {
+    padding: 80px 0 0 0;
+  }
+}
+
+@media screen and (max-width: 1213px) {
+  .pagefour {
+    width: 900px;
+    height: 650px;
+  }
+  .pagetwo__sitemore {
+    margin: 50px 0;
+  }
+  .pagetwo__layoutmore {
+    margin: 50px 0;
+  }
+  .pagetwo__designmore {
+    margin: 50px 0;
+  }
+  html,
+  body {
+    font-size: 65%;
+  }
+  .pagefour .slick-arrow {
+    height: 10%;
+  }
+}
+
+@media screen and (max-width: 1120px) {
+  .pagefive {
+    width: 92%;
+  }
+  .pagefour {
+    width: 800px;
+    height: 650px;
+  }
+  .pagethree {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  html,
+  body {
+    font-size: 60%;
+  }
+  .popup__first-block-name,
+  .popup__first-block-phone,
+  .popup__second-block-mail,
+  .popup__second-block-what {
+    width: 200px;
+  }
+  .popup__third-block-desc {
+    width: 500px;
+  }
+  .popup button {
+    width: 200px;
+  }
+  .pagefour__adminabout {
+    height: 430px;
+  }
+  .pagefour {
+    width: 700px;
+    height: 600px;
+  }
+  .pagefour__admintitle {
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 919px) {
+  .pagethree {
+    overflow-x: hidden;
+  }
+  .pagefour {
+    width: 600px;
+  }
+  .pagefour__adminabout {
+    height: 400px;
+  }
+  .pagefive {
+    width: 85%;
+  }
+  .pagefive__order {
+    width: 250px;
+  }
+}
+
+@media screen and (max-width: 789px) {
+  .pagefour {
+    width: 550px;
+  }
+  .pagefour__adminabout {
+    height: 350px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .pagefive {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+  }
+  .pagefive__left {
+    width: 90%;
+  }
+  .pagefive__right {
+    width: 60%;
+  }
+  .pagefive__leftorder {
+    display: none;
+  }
+  .pagefive__bigarrow {
+    display: none;
+  }
+  .pagefive__map {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 739px) {
+  .pagefour {
+    width: 450px;
+  }
+  .pagefour__adminabout {
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 639px) {
+  .pagefour {
+    width: 400px;
+  }
+  .pagefour__adminabout {
+    height: 280px;
+  }
+  .pageone__right {
+    display: none;
+  }
+  .pageone__left {
+    width: 70%;
+  }
+  .pagetwo__like {
+    display: none;
+  }
+  .pagetwo__money {
+    display: none;
+  }
+  .pagetwo__time {
+    display: none;
+  }
+  .pagetwo__site,
+  .pagetwo__layout,
+  .pagetwo__design {
+    min-height: 200px;
+  }
+}
+
+@media screen and (max-width: 587px) {
+  .pagefour {
+    width: 350px;
+  }
+  .pagefour__adminabout {
+    height: 250px;
+  }
+  .pagethree {
+    width: 75%;
+  }
+  .popup__first-block-name,
+  .popup__first-block-phone,
+  .popup__second-block-mail,
+  .popup__second-block-what {
+    width: 100px;
+  }
+  .popup__third-block-desc {
+    width: 250px;
+  }
+  .popup button {
+    width: 200px;
+  }
+}
+
+@media screen and (max-width: 539px) {
+  .pagefour {
+    width: 300px;
+  }
+  .pagefour__adminabout {
+    height: 220px;
+  }
+  html,
+  body {
+    font-size: 50%;
+  }
+  .pagefive__order {
+    width: 200px;
+  }
+  .pagetwo__right {
+    width: 100%;
+  }
+  .pagetwo__blockone {
+    width: 100%;
+  }
+  .pagetwo {
+    width: 75%;
+  }
+}
+
+@media screen and (max-width: 489px) {
+  .pagetwo {
+    width: 70%;
+  }
+  .pagethree {
+    width: 70%;
+  }
+  .pagefour {
+    width: 250px;
+  }
+  .pagefour__adminabout {
+    height: 170px;
+  }
+  .pageone__order {
+    width: 180px;
+  }
+}
+
+@media screen and (max-width: 437px) {
+  .pagefour {
+    width: 200px;
+  }
+  .pagefour__adminabout {
+    height: 120px;
+  }
+  .pagefour__admintitle,
+  .pagefour__fronttitle,
+  .pagefour__backtitle,
+  .pagefour__hrtitle {
+    font-size: 2.5rem;
+  }
+  .pagefour .slick-arrow {
+    height: 20%;
+    width: 8%;
+  }
+  .pagefour .slick-arrow.slick-prev {
+    left: 25%;
+  }
+  .pagefour .slick-arrow.slick-next {
+    right: 65%;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  html,
+  body {
+    font-size: 45%;
+  }
+  .pagetwo {
+    width: 65%;
+  }
+  .pagethree {
+    width: 65%;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .pagefive__order {
+    width: 150px;
+  }
+  .pageone__left {
+    width: 100%;
+  }
+  .pagetwo {
+    width: 60%;
+  }
+  .pagethree {
+    width: 60%;
+  }
+  .pagefour {
+    width: 170px;
+  }
+  .pagefour__adminabout {
+    height: 100px;
+  }
+  .pagefive {
+    width: 75%;
+  }
+}
